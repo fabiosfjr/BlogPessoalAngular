@@ -1,0 +1,9 @@
+#img-bg {
+    background-image: url('https://becode.com.br/wp-content/uploads/2018/03/aplicacoes-html-css-js-feed-1.png');
+
+    min-height: 695px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
